@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core App Colors -->
+    <color name="bg_main">#0D0D1A</color>
+    <color name="toolbar_bg">#111127</color>
+    <color name="card_bg">#1A1A2E</color>
+    <color name="card_header">#16213E</color>
+    <color name="card_advice">#0F3460</color>
+    <color name="card_tip">#1B2838</color>
+    <color name="chart_bg">#0D1117</color>
+    <color name="input_bg">#0D0D1A</color>
+    <color name="highlight_bg">#1E2A1E</color>
+    <color name="divider">#333355</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_yellow">#FFD700</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_red">#F44336</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAACC</color>
+    <color name="text_muted">#666688</color>
+
+    <!-- Trend Colors -->
+    <color name="trend_rising">#FF6B6B</color>
+    <color name="trend_falling">#6BCB77</color>
+    <color name="trend_stable">#FFD93D</color>
+
+    <!-- Card Background Tints for Trends -->
+    <color name="card_rising">#2A1A1A</color>
+    <color name="card_falling">#1A2A1A</color>
+    <color name="card_stable">#1A1A2A</color>
+
+    <!-- Bottom Nav -->
+    <color name="bottom_nav_selected">#FFD700</color>
+    <color name="bottom_nav_unselected">#666688</color>
+
+    <!-- System -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFD700</color>
+    <color name="colorPrimaryVariant">#1A1A2E</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorSecondary">#4CAF50</color>
+    <color name="colorSecondaryVariant">#2E7D32</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+</resources>

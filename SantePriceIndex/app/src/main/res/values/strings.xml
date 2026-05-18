@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="price_watch">Price Watch</string>
+    <string name="profit_calc">Profit Calc</string>
+    <string name="trends">Trends</string>
+    <string name="price_board">Price Board</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="mandi_price">Mandi Price</string>
+    <string name="rrp">Recommended Retail Price</string>
+    <string name="transport_cost">Transport Cost</string>
+    <string name="profit_margin">Profit Margin</string>
+    <string name="calculate">Calculate</string>
+    <string name="refresh">Refresh</string>
+    <string name="live_sync">LIVE SYNC: %s</string>
+    <string name="live_mandi_price_label">Live Mandi: ₹%s</string>
+    <string name="unit_format">/ %s</string>
+</resources>

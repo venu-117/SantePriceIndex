@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_login">
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.sante.priceindex.ui.login.LoginFragment"
+        android:label="Login" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.sante.priceindex.ui.home.HomeFragment"
+        android:label="Price Watch" />
+
+    <fragment
+        android:id="@+id/nav_profit_calc"
+        android:name="com.sante.priceindex.ui.profitcalc.ProfitCalcFragment"
+        android:label="Profit Calc" />
+
+    <fragment
+        android:id="@+id/nav_trends"
+        android:name="com.sante.priceindex.ui.trends.TrendsFragment"
+        android:label="Trends" />
+
+</navigation>

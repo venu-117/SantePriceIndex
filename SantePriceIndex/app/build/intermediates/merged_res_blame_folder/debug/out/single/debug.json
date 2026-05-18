@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_item_price_board.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/item_price_board.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_activity_price_board.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/activity_price_board.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/color_bottom_nav_color.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_fragment_profit_calc.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_profit_calc.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/drawable_ic_trends.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/drawable/ic_trends.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/drawable_ic_calculator.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/drawable/ic_calculator.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_fragment_trends.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_trends.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_item_mandi_price.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/item_mandi_price.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/layout_fragment_home.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-merged_res-49:/drawable_ic_price_watch.xml.flat",
+        "source": "com.sante.priceindex.app-main-51:/drawable/ic_price_watch.xml"
+    }
+]

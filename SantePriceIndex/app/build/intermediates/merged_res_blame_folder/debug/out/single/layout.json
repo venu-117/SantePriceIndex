@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/activity_price_board.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/activity_price_board.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/item_mandi_price.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/item_mandi_price.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/item_price_board.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/item_price_board.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/fragment_profit_calc.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_profit_calc.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/fragment_trends.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_trends.xml"
+    },
+    {
+        "merged": "com.sante.priceindex.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.sante.priceindex.app-main-51:/layout/fragment_home.xml"
+    }
+]
